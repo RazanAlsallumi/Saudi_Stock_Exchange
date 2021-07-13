@@ -56,36 +56,36 @@ We applied that by extracting a new data frame with only the Financials sector i
 
 
 
-![](stocks2.png)
+![](./image/stocks2.png)
 
 
 #### Difference of the closing price of specific bank and the mean closing price of all the other banks: 
 
 
-![](stocks5.png)
+![](./image/stocks5.png)
 
 
 #### Specific bank closing history:
 
 
-![](Change_stocks5.png)
+![](./image/Change_stocks5.png)
 
 
 #### Open and close history for Specific bank:
  
 
-![](Change_stocks4.png)
+![](./image/Change_stocks4.png)
 
 
 
 #### Increasing and decreasing of closing price in the years from 2016 to 2020
 
-![](Change_stocks0.png)
+![](./image/Change_stocks0.png)
 
 
 #### Baseline model
 
-![](Change_stocks6.png)
+![](./image/Change_stocks6.png)
 
 
 ## APPROACH:
