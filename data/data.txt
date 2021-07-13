@@ -2,4 +2,5 @@
 
 - The data provided contains 6992 columns and 14 rows.
 
-- We worked with the larger data version which contains 593819 columns and 14 rows that you can download from kaggle: https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul 
+- We worked with the larger data version which contains 593819 columns and 14 rows that 
+you can download from kaggle: https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul 
