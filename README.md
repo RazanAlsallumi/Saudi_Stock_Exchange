@@ -11,7 +11,7 @@ Supotred By: SDA(Saudi Digital Academy) and Coding Dojo
 
 
 
-#  Capstone Project Saudi Stock Exchange (Tadawul)
+#  Final Project Saudi Stock Exchange (Tadawul)
 
 
 
@@ -56,36 +56,36 @@ We applied that by extracting a new data frame with only the Financials sector i
 
 
 
-![](./image/stocks2.png)
+![](./image/s1.png)
 
 
 #### Difference of the closing price of specific bank and the mean closing price of all the other banks: 
 
 
-![](./image/stocks5.png)
+![](./image/s2.png)
 
 
 #### Specific bank closing history:
 
 
-![](./image/Change_stocks5.png)
+![](./image/s4.png)
 
 
 #### Open and close history for Specific bank:
  
 
-![](./image/Change_stocks4.png)
+![](./image/s3.png)
 
 
 
 #### Increasing and decreasing of closing price in the years from 2016 to 2020
 
-![](./image/Change_stocks0.png)
+![](./image/s5.png)
 
 
 #### Baseline model
 
-![](./image/Change_stocks6.png)
+![](./image/s6.png)
 
 
 ## APPROACH:
@@ -101,6 +101,10 @@ X= df_x [['symbol', 'open', 'high', 'low', 'change', 'perc_Change', 'volume_trad
 y= df_x['close'] # Target
 
 ```
+
+### Prediction:
+
+
 
 ### RESULTS:
 
@@ -118,8 +122,14 @@ y= df_x['close'] # Target
 
 
 
+
+
 The Random Forest and Decision Tree models performed effectively in most banks. But Random Forest model was more effective than the Decision Tree Model in most. In the Decision Tree Model, the error rate was less than 2%, except in Alinma Bank, the Decision Tree Model performed better than the Random Forest Model by 20%.
 
+
+You can see our Blog on [medium](https://medium.com/@razanAlsallumi/saudi-stock-exchange-tadawul-9d84b2c15852)
+
+You can see our dashboard on [Tableau](https://public.tableau.com/app/profile/waad.alsaleh/viz/Tadawul/TadawulDashbord)
 
    
    
